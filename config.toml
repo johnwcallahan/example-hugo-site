@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://example.org/"
+baseurl = "/"
 themesDir = "themes"
 languageCode = "en-us"
 title = "Hugo Cactus Theme"
