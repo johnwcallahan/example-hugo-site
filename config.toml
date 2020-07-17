@@ -10,7 +10,7 @@ googleAnalytics = ""
 disqusShortname = "spf13"
 
 [params]
-	name = "John Callahan"
+	name = "John Doe"
 	description = "Describe your website"
 	bio = "Blogger & Programmer"
 	# Enter optionally your twitter account
